@@ -26,3 +26,10 @@ I recieved the data as a SQL file
 ### Share
 
 Using Power BI i was able to generate the following![Screenshot (33)](https://github.com/AbdelrahmanHemdan17/Loan-Requests-Overview/assets/161534505/684de88c-f9ae-4417-8b7c-77dbf207a149)
+
+
+### Action 
+
+- This dashboard was aproached carefully so it becomes a summerie as wall as a servise for employees so that they can use it to know more info about every loan application
+- valuable info about each loan request were kept as key cards so they easy to use and easy to utilize
+- all other secondary info were also visiualized so that it can help the employees take dicision with cation
